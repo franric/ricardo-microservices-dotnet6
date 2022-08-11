@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "F5n1ojVKJFTztsa10CnoZlgLuz+KOSKfLg/o4oXsWL7leopUwcVmgOI2IKemMZtbl3h1MDfl+BHMT0UqIXl1Kw==",
+  "dgSpecHash": "BGGng/LWzCAG3Vnfq+Zhx10mPQzT9iQCGg8JBhBIbJqJ6b4Vg+b+OntZMWqIyF3ON77AUkUfV1npvARsGj47eQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\FRANCISCO-HOME\\Documents\\Dev-Estudo\\Udemy\\LeandroCosta\\ricardo-microservices-dotnet6\\GeekShoping\\GeekShoping.Web\\GeekShoping.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\FRANCISCO-HOME\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
