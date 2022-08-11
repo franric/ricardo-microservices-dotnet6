@@ -40,11 +40,19 @@ namespace GeekShopping.ProductAPI.Infra.Repositorio
 
         public async Task<ProdutoInputModel> Update(ProdutoInputModel model)
         {
-            var produto = _mapper.Map<Produto>(model);
-            _context.Produtos.Add(produto);
-            await _context.SaveChangesAsync();
+            try
+            {
+                var produto = _mapper.Map<Produto>(model);
+                _context.Produtos.Update(produto);
+                await _context.SaveChangesAsync();
 
-            return _mapper.Map<ProdutoInputModel>(produto);
+                return _mapper.Map<ProdutoInputModel>(produto);
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+            
         }
 
         public async Task<bool> Delete(long id)

@@ -5,7 +5,7 @@ namespace GeekShoping.Web.Utils
 {
     public static class HttpClienteExtencoes
     {
-        private static MediaTypeHeaderValue contentType = new MediaTypeHeaderValue("applicantion/json");
+        private static MediaTypeHeaderValue contentType = new MediaTypeHeaderValue("application/json");
         public static async Task<T> GetAsync<T>(this HttpResponseMessage response)
         {
             if (!response.IsSuccessStatusCode) throw new ApplicationException($"Algo aconteceu de errado: {response.ReasonPhrase}");

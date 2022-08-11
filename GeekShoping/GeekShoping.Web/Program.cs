@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient<IProdutoServico, ProdutoService>(o => 
     o.BaseAddress = new Uri(builder.Configuration["ServiceUrls:ProdutoApi"]));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

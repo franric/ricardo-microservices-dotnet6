@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4dKiumG9rwAmiJokAKiwrSqXTwBiF/FdJ8Yl/CJBnAg=",
+  "Hash": "xPdR1lxXVvX8iiAJCkS9Urbs04myyYBzwxXWsL7gobo=",
   "Source": "GeekShoping.Web",
   "BasePath": "_content/GeekShoping.Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\FRANCISCO-HOME\\Documents\\Dev-Estudo\\Udemy\\LeandroCosta\\ricardo-microservices-dotnet6\\GeekShoping\\GeekShoping.Web\\wwwroot\\images\\favicon.png",
+      "SourceId": "GeekShoping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FRANCISCO-HOME\\Documents\\Dev-Estudo\\Udemy\\LeandroCosta\\ricardo-microservices-dotnet6\\GeekShoping\\GeekShoping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShoping.Web",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\FRANCISCO-HOME\\Documents\\Dev-Estudo\\Udemy\\LeandroCosta\\ricardo-microservices-dotnet6\\GeekShoping\\GeekShoping.Web\\wwwroot\\images\\geek_shopping.png",
+      "SourceId": "GeekShoping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FRANCISCO-HOME\\Documents\\Dev-Estudo\\Udemy\\LeandroCosta\\ricardo-microservices-dotnet6\\GeekShoping\\GeekShoping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShoping.Web",
+      "RelativePath": "images/geek_shopping.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
     },
     {
       "Identity": "C:\\Users\\FRANCISCO-HOME\\Documents\\Dev-Estudo\\Udemy\\LeandroCosta\\ricardo-microservices-dotnet6\\GeekShoping\\GeekShoping.Web\\wwwroot\\js\\site.js",
